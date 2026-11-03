@@ -1,0 +1,4 @@
+model,ROUGE-1,ROUGE-2,ROUGE-L,BLEU,METEOR,BERTScore,Semantic Similarity,compression_ratio,summary_length,article_length,reference_length,execution_time,memory_usage,Lexical Diversity,Readability,Keyword Coverage,Redundancy,Novelty
+gemma,0.277,0.1049,0.1747,0.0119,0.1112,0.8687,0.7916,1.3517,78.89,58.47,349.81,14.204,0.0741,0.8393,17.2336,0.1772,0.1607,0.5338
+llama,0.3476,0.1781,0.2237,0.0332,0.1585,0.8781,0.7774,1.5736,91.88,58.47,349.81,5.6834,0.0752,0.8052,33.0092,0.2478,0.1948,0.4069
+qwen,0.2992,0.1359,0.2025,0.0157,0.1228,0.8768,0.8052,1.2192,71.22,58.47,349.81,42.1386,0.0743,0.8523,24.4339,0.2016,0.1477,0.4227

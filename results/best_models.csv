@@ -1,0 +1,11 @@
+Metric,Best Model,Score
+ROUGE-1,llama,0.3476
+ROUGE-2,llama,0.1781
+ROUGE-L,llama,0.2237
+BLEU,llama,0.0332
+METEOR,llama,0.1585
+BERTScore,llama,0.8780999779701233
+Semantic Similarity,qwen,0.8051999807357788
+Keyword Coverage,llama,0.2478
+Lexical Diversity,qwen,0.8523
+Readability,llama,33.0092
